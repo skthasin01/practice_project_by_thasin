@@ -1,1 +1,1 @@
-# resturent_management_project_by_hasin
+# practice_project_by_hasin
